@@ -3,7 +3,7 @@
 
 ```c#
 const danish = {
-  TypeOfProgrammer = "WorkAholic",
+  TypeOfProgrammer = "Application based",
   Code: [C#, Python, nodeSJ, HTML, css, MS SQL, JavaScript],
   Projects: ["OCR Funcktions", "Calulate using NN XOR", "TensorFlow-Stock-API"],
 
