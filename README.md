@@ -1,5 +1,3 @@
-# Welcome to my github!
-
 <h1 align="center">Hi 👋, I'm Martin Egeskov</h1>
 <h3 align="center">A passionate programmer from denmark</h3>
 
