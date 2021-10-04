@@ -1,16 +1,5 @@
 # Welcome to my github!
 
-
-```c#
-const danish = {
-  TypeOfProgrammer = "Application based",
-  Code: [C#, Python, nodeSJ, HTML, css, MSSQL, JavaScript],
-  Projects: ["OCR Funcktions", "Calulate using NN XOR", "TensorFlow-Stock-API"],
-
- challenge: "Learn what i couldn't yesterday"
-}
-```
-
 <h1 align="center">Hi 👋, I'm Martin Egeskov</h1>
 <h3 align="center">A passionate programmer from denmark</h3>
 
@@ -25,6 +14,17 @@ const danish = {
 - 💬 Ask me about **Feel free to ask C# questions**
 
 - 📫 How to reach me **https://www.linkedin.com/in/martin-egeskov-olsen-6612b81b7/**
+
+
+```c#
+const danish = {
+  TypeOfProgrammer = "Application based",
+  Code: [C#, Python, nodeSJ, HTML, css, MSSQL, JavaScript],
+  Projects: ["OCR Funcktions", "Calulate using NN XOR", "TensorFlow-Stock-API"],
+
+ challenge: "Learn what i couldn't yesterday"
+}
+```
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
