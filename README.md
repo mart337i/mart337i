@@ -11,7 +11,6 @@ const danish = {
 }
 ```
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mart337i&exclude_repo=TensorFlow-Stock-API,anuraghazra.github.io)]
 
 
 
