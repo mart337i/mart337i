@@ -11,5 +11,6 @@ const danish = {
 }
 ```
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mart337i)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mart337i&hide=jupyternotebook)](https://github.com/anuraghazra/github-readme-stats)
+
 
