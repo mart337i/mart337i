@@ -1,8 +1,14 @@
 <h3 align="center">A passionate C# developer from Denamrk</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mart337i&label=Profile%20views&color=0e75b6&style=flat" alt="mart337i" /> </p>
+```c#
+const danish = {
+  TypeOfProgrammer = "Application based",
+  Code: [C#, Python, nodeSJ, HTML, css, MSSQL, JavaScript],
+  Projects: ["OCR Funcktions", "Calulate using NN XOR", "TensorFlow-Stock-API"],
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mart337i" alt="mart337i" /></a> </p>
+ challenge: "Learn what i couldn't yesterday"
+}
+```
 
 - 🔭 I’m currently working on **Object-Oriented Analysis and Design**
 
