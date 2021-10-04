@@ -12,14 +12,4 @@ const danish = {
 ```
 
 
-```C#
-        static void Main(string[] args)
-        {
-            var Mart337i = new Programmer();
-            typeof(Programmer) = Application based;
-            var code = "C#, Python, nodeSJ, HTML, css, MSSQL, JavaScript";
-            var Projects = "OCR Funcktions, Calulate using NN XOR, TensorFlow-Stock-API";
-            
-            var challenge = "Learn what i couldn't yesterday";
-        }
-```
+
