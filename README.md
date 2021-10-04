@@ -1,15 +1,5 @@
 <h3 align="center">A passionate C# developer from Denamrk</h3>
 
-```c#
-const danish = {
-  TypeOfProgrammer = "Application based",
-  Code: [C#, Python, nodeSJ, HTML, css, MSSQL, JavaScript],
-  Projects: ["OCR Funcktions", "Calulate using NN XOR", "TensorFlow-Stock-API"],
-
- challenge: "Learn what i couldn't yesterday"
-}
-```
-
 - 🔭 I’m currently working on **Object-Oriented Analysis and Design**
 
 - 🌱 I’m currently learning **Pentesting/OPSEC.**
