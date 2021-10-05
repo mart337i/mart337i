@@ -1,4 +1,4 @@
-<h3 align="center">A passionate C# developer from Denamrk</h3>
+<h2 align="center">A passionate C# developer from Denmark</h2>
 
 - 🔭 I’m currently working on **Object-Oriented Analysis and Design**
 
