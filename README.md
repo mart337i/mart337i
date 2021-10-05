@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **Object-Oriented Analysis and Design**
 
-- 🌱 I’m currently learning **Pentesting/OPSEC.**
+- 🌱 I’m currently learning **Prince2**
 
 - 👯 I’m looking to collaborate on **C# projects**
 
