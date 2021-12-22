@@ -10,9 +10,9 @@
 
 - 💬 Ask me about **Anything Related to C#**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mart337i?tab=repositories](https://github.com/mart337i?tab=repositories)
+- 👨‍💻 All of my projects are available at: [https://github.com/mart337i?tab=repositories](https://github.com/mart337i?tab=repositories)
 
-- 📫 How to reach me **https://www.linkedin.com/in/martin-egeskov-olsen-6612b81b7/**
+- 📫 How to reach me: **https://www.linkedin.com/in/martin-egeskov-olsen-6612b81b7/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
