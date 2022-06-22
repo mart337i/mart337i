@@ -1,5 +1,5 @@
 <h2 align="center">A passionate developer from Denmark</h2>
-
+<p>
 - 🔭 I’m currently working on **Object-Oriented Analysis and Design**
 
 - 🌱 I’m currently learning **Prince2**
@@ -13,6 +13,8 @@
 - 👨‍💻 All of my projects are available at: [https://github.com/mart337i?tab=repositories](https://github.com/mart337i?tab=repositories)
 
 - 📫 How to reach me: **https://www.linkedin.com/in/martin-egeskov-olsen-6612b81b7/**
+  
+  </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
