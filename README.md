@@ -1,14 +1,14 @@
 <h2 align="center">A passionate developer from Denmark</h2>
 
-- 🔭 I’m currently working on  <strong> Object-Oriented Analysis and Design** <br>
+- 🔭 I’m currently working on  <strong> Object-Oriented Analysis and Design </strong> <br>
 
-- 🌱 I’m currently learning  <strong>Prince2** <br>
+- 🌱 I’m currently learning  <strong>Prince2</strong> <br>
 
-- 👯 I’m looking to collaborate on<strong> C# projects** <br>
+- 👯 I’m looking to collaborate on<strong> C# projects</strong> <br>
 
 - 🤝 I’m looking for help with <strong> algorithm and dynamic programming</strong> <br>
 
-- 💬 Ask me about  <strong> Anything Related to C#** <br>
+- 💬 Ask me about  <strong> Anything Related to C#</strong> <br>
 
 - 👨‍💻 All of my projects are available at: <a href="https://github.com/mart337i?tab=repositories" target="blank">></a> <br>
 
