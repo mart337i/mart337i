@@ -10,9 +10,9 @@
 
 - 💬 Ask me about  <strong> Anything Related to C#</strong> <br>
 
-- 👨‍💻 All of my projects are available at: <a href="https://github.com/mart337i?tab=repositories" target="blank">> Github resp</a> <br>
+- 👨‍💻 All of my projects are available at: <strong> <a href="https://github.com/mart337i?tab=repositories" target="blank">> Github resp</a> </strong> <br>
 
-- 📫 How to reach me:  <strong> <a href="https://www.linkedin.com/in/martin-egeskov-olsen-6612b81b7/" target="blank">> Linkedin</a> <strong> <br>
+- 📫 How to reach me:  <strong> <a href="https://www.linkedin.com/in/martin-egeskov-olsen-6612b81b7/" target="blank">> Linkedin</a> </strong> <br>
   
 
 
