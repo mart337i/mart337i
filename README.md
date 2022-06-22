@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on **C# projects** <br>
 
-- 🤝 I’m looking for help with **algorithm and dynamic programming** <br>
+- 🤝 I’m looking for help with <strong> algorithm and dynamic programming</strong> <br>
 
 - 💬 Ask me about **Anything Related to C#** <br>
 
