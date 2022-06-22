@@ -1,18 +1,18 @@
 <h2 align="center">A passionate developer from Denmark</h2>
 
-- 🔭 I’m currently working on **Object-Oriented Analysis and Design** <br>
+- 🔭 I’m currently working on  <strong> Object-Oriented Analysis and Design** <br>
 
-- 🌱 I’m currently learning **Prince2** <br>
+- 🌱 I’m currently learning  <strong>Prince2** <br>
 
-- 👯 I’m looking to collaborate on **C# projects** <br>
+- 👯 I’m looking to collaborate on<strong> C# projects** <br>
 
 - 🤝 I’m looking for help with <strong> algorithm and dynamic programming</strong> <br>
 
-- 💬 Ask me about **Anything Related to C#** <br>
+- 💬 Ask me about  <strong> Anything Related to C#** <br>
 
-- 👨‍💻 All of my projects are available at: [https://github.com/mart337i?tab=repositories](https://github.com/mart337i?tab=repositories) <br>
+- 👨‍💻 All of my projects are available at: <a href="https://github.com/mart337i?tab=repositories"></a> <br>
 
-- 📫 How to reach me: **https://www.linkedin.com/in/martin-egeskov-olsen-6612b81b7/** <br>
+- 📫 How to reach me:  <strong> <a href="https://www.linkedin.com/in/martin-egeskov-olsen-6612b81b7/"></a> <strong> <br>
   
 
 
