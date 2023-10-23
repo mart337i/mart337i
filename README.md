@@ -1,14 +1,14 @@
 <h2 align="center">A passionate developer from Denmark</h2>
 
-- 🔭 I’m currently working on  <strong> Object-Oriented Analysis and Design </strong> <br>
+- 🔭 I’m currently working on  <strong> Odoo apps and communication tools </strong> <br>
 
-- 🌱 I’m currently learning  <strong>Prince2</strong> <br>
+- 🌱 I’m currently learning  <strong>Server manegement and tech stack design </strong> <br>
 
-- 👯 I’m looking to collaborate on<strong> C# projects</strong> <br>
+- 👯 I’m looking to collaborate on<strong> Python projects</strong> <br>
 
 - 🤝 I’m looking for help with <strong> algorithm and dynamic programming</strong> <br>
 
-- 💬 Ask me about  <strong> Anything Related to C#</strong> <br>
+- 💬 Ask me about  <strong> Anything Related to Python or Odoo </strong> <br>
 
 - 👨‍💻 All of my projects are available at: <strong> <a href="https://github.com/mart337i?tab=repositories" target="blank">> Github resp</a> </strong> <br>
 
