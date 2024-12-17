@@ -14,6 +14,8 @@
 <a href="https://github.com/mart337i">
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/mart337i/langs)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/mart337i/repos)](https://githubtrends.io)
+
 
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></img>
