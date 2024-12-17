@@ -15,7 +15,8 @@
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/mart337i/langs)](https://githubtrends.io)
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/mart337i/repos)](https://githubtrends.io)
-[![GitHub Trends SVG](https://api.githubtrends.io/wrapped/mart337i?year=2024&no_cache=false)](https://githubtrends.io)
+
+[![GitHub Trends SVG](https://api.githubtrends.io/wrapped/mart337i?year=2024&no_cache=true)](https://githubtrends.io)
 
 
 
