@@ -37,7 +37,7 @@
 <table align="center" border="0">
   <tr>
     <td width="50%" align="center">
-      <h3>🚀 <a href="https://github.com/mart337i/deploy-it-dk">deploy-it-dk</a></h3>
+      <h3>🚀 <a href="https://github.com/mart337i/deploy-it.dk">deploy-it.dk</a></h3>
       <p>VPS deployment API for streamlined application deployment</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
