@@ -46,7 +46,7 @@
     </td>
     <td width="50%" align="center">
       <h3>📈 <a href="https://github.com/mart337i/TensorFlow-Stock-Analysis">TensorFlow-Stock-Analysis</a></h3>
-      <p>Data science project predicting Bitcoin price movements with 72% accuracy</p>
+      <p>Data science project predicting Bitcoin price movements</p>
       <p>
         <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white">
         <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white">
