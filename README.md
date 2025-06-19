@@ -6,8 +6,8 @@
 </p>
 <p align="center">
   🔭 I'm currently working at <a href="https://vkdata.dk/en_GB/">VK data A/S</a> and part owner of <a href="https://tourly.dk/">Tourly.dk</a><br>
-  🌱 I'm passionate about ERP systems, automation, and cloud architecture<br>
-  💬 Ask me about Python, Odoo, DevOps, or containerization
+  🌱 I'm passionate about automation<br>
+  💬 Ask me about Python, Odoo, DevOps
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/martin-egeskov-olsen-6612b81b7/" target="_blank">
