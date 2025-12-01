@@ -128,11 +128,11 @@
       </p>
     </td>
     <td width="50%" align="center">
-      <h3>⚡ <a href="https://github.com/mart337i/cleo">cleo</a></h3>
-      <p>Developer CLI toolkit with Odoo-specific commands for rapid development workflows</p>
+      <h3>⚡ <a href="https://github.com/mart337i/gt">gt</a></h3>
+      <p>Navigate to aliased directories in your shell with tab completion.</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-        <img src="https://img.shields.io/badge/CLI-000000?style=flat-square&logo=terminal&logoColor=white">
+        <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white">
+        <img src="https://img.shields.io/badge/SSH-000000?style=flat-square&logo=openssh&logoColor=white">
       </p>
     </td>
   </tr>
