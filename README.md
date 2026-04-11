@@ -4,7 +4,6 @@
 # Hi, I'm Martin Egeskov 👋
 
 **Software Engineer** specializing in **developer tooling**, **backend systems**, and **infrastructure automation**
----
 
 ## 🛠️ Tech Stack
 
