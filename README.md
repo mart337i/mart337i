@@ -4,11 +4,6 @@
 # Hi, I'm Martin Egeskov 👋
 
 **Software Engineer** specializing in **developer tooling**, **backend systems**, and **infrastructure automation**
-
-🔧 Building tools that make developers' lives easier  
-🚀 From CLI utilities to production APIs  
-🌍 Based in Denmark
-
 ---
 
 ## 🛠️ Tech Stack
