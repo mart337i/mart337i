@@ -1,4 +1,3 @@
-
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 
 # Hi, I'm Martin Egeskov 👋
@@ -19,11 +18,26 @@
 **Frontend (when needed)**  
 `Vue.js` `Astro` `HTML/CSS`
 
+## 💼 Experience
 
-## 💼 Currently
+**Udvikler, finansiel software** @ VK DATA ApS  
+*Jan 2022 - Present · Full-time · Hybrid · Denmark*
 
-**Software Developer** @ [VK DATA ApS](https://egeskov-group.dk)  
-Working on ERP systems, business automation, and custom software solutions.
+Working with Odoo development, automation, data migrations, upgrades, and full-stack troubleshooting across production environments.
+
+---
+
+**Teknisk ansvarlig** @ Tourly  
+*Apr 2024 - Present · Self-employed · Remote · Denmark*
+
+Co-founder with responsibility for economics, technical infrastructure, and optimization of internal processes.
+
+---
+
+**Bestyrelsesmedlem** @ 4 Maj Kollegiet  
+*Aug 2022 - Present · Contract · Denmark*
+
+Advised on website modernization, network infrastructure improvements, and community initiatives.
 
 ---
 
