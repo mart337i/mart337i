@@ -20,21 +20,21 @@
 
 ## 💼 Experience
 
-**Udvikler, finansiel software** @ VK DATA ApS  
+**Financial Software Developer** @ VK DATA ApS  
 *Jan 2022 - Present · Full-time · Hybrid · Denmark*
 
 Working with Odoo development, automation, data migrations, upgrades, and full-stack troubleshooting across production environments.
 
 ---
 
-**Teknisk ansvarlig** @ Tourly  
+**Technical Lead** @ Tourly  
 *Apr 2024 - Present · Self-employed · Remote · Denmark*
 
 Co-founder with responsibility for economics, technical infrastructure, and optimization of internal processes.
 
 ---
 
-**Bestyrelsesmedlem** @ 4 Maj Kollegiet  
+**Board Member** @ 4 Maj Kollegiet  
 *Aug 2022 - Present · Contract · Denmark*
 
 Advised on website modernization, network infrastructure improvements, and community initiatives.
