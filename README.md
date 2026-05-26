@@ -20,24 +20,41 @@
 
 ## 💼 Experience
 
-**Financial Software Developer** @ VK DATA ApS  
-*Jan 2022 - Present · Full-time · Hybrid · Denmark*
+**Lead Migration Specialist** @ VK DATA ApS  
+*2023 - Present · Full-time · Denmark*
 
-Working with Odoo development, automation, data migrations, upgrades, and full-stack troubleshooting across production environments.
-
----
-
-**Technical Lead** @ Tourly  
-*Apr 2024 - Present · Self-employed · Remote · Denmark*
-
-Co-founder with responsibility for economics, technical infrastructure, and optimization of internal processes.
+- Automated migrations of Odoo Enterprise solutions to on-premise environments.
+- Owned multiple migration projects end-to-end, from customer dialogue to data migration, code conversion, and infrastructure changes.
+- Built automated module migration workflows using open-source AI models.
+- Improved integration and migration processes to deliver stable, scalable solutions.
 
 ---
 
-**Board Member** @ 4 Maj Kollegiet  
-*Aug 2022 - Present · Contract · Denmark*
+**Software Developer** @ VK DATA ApS  
+*2021 - 2023 · Full-time · Denmark*
 
-Advised on website modernization, network infrastructure improvements, and community initiatives.
+- Developed custom Odoo modules for small and large business customers.
+- Led a development team with focus on efficient delivery, code quality, and maintainable solutions.
+- Built a shared development setup across teams to improve workflows and collaboration.
+- Worked on automation, system architecture, and continuous improvement of internal processes.
+
+---
+
+**CTO** @ Tourly I/S  
+*2024 - Present · Self-employed · Denmark*
+
+- Responsible for company finance, technical infrastructure, and ongoing system development.
+- Develop scalable technical solutions and internal processes.
+- Contribute to strategic decisions around technology, digital development, and operational improvements.
+
+---
+
+**Board Member** @ 4. Maj Kollegiet  
+*2021 - Dec 2025 · Contract · Denmark*
+
+- Responsible for digital transformation and modernization of the college's online presence.
+- Improved digital solutions and communication platforms.
+- Structured and optimized digital workflows for administrative and community-facing processes.
 
 ---
 
