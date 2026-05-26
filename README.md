@@ -4,20 +4,6 @@
 
 **Software Engineer** specializing in **developer tooling**, **backend systems**, and **infrastructure automation**
 
-## 🛠️ Tech Stack
-
-**Languages**  
-`Python` `Go` `Rust` `JavaScript/TypeScript` `Shell`
-
-**Backend & APIs**  
-`FastAPI` `Docker` `PostgreSQL` `REST APIs` `Microservices`
-
-**DevOps & Tools**  
-`Docker` `Git` `CI/CD` `Linux` `Bash` `System Design`
-
-**Frontend (when needed)**  
-`Vue.js` `Astro` `HTML/CSS`
-
 ## 💼 Experience
 
 **Lead Migration Specialist** @ VK DATA ApS  
@@ -55,6 +41,57 @@
 - Responsible for digital transformation and modernization of the college's online presence.
 - Improved digital solutions and communication platforms.
 - Structured and optimized digital workflows for administrative and community-facing processes.
+
+---
+
+## 🛠️ Technical Stack
+
+**Backend & ERP Systems**  
+`Python` `Odoo ERP` `FastAPI` `PostgreSQL` `REST APIs` `SQL` `System Integration`
+
+**Infrastructure & Automation**  
+`Docker` `Docker Compose` `Linux` `Debian` `nginx` `CI/CD` `GitHub Actions` `Proxmox`
+
+**Platform Engineering**  
+`Deployment APIs` `Control Planes` `Observability` `Grafana` `Loki` `VictoriaMetrics` `Systemd`
+
+**Developer Tooling**  
+`Go` `Rust` `TypeScript` `Shell` `CLI Tools` `Language Servers` `MCP` `AI-Assisted Workflows`
+
+**Frontend & UI**  
+`JavaScript/TypeScript` `Vue` `React` `Astro` `HTML` `CSS/SCSS` `XML/QWeb`
+
+---
+
+## 🚀 Selected Builds
+
+**[Odoo Deployment Platform](docs/odoo-deployment-platform.md)**  
+Built a control-plane platform for managing Odoo instances across deployment, proxying, backups, copy/import workflows, and observability. The system connects custom Odoo modules with a deployment API that manages Docker Compose workspaces, nginx routing, certificate strategies, and operational status reporting.
+
+---
+
+**[odoo-lsp](https://github.com/mart337i/odoo-lsp)**  
+Language server for Odoo Python, JavaScript, and XML, built to improve developer feedback loops and code navigation.
+
+---
+
+**[odooctl](https://github.com/mart337i/odooctl)**  
+Cross-platform Go CLI for managing Odoo Docker development environments.
+
+---
+
+**[odoo-dev-mcp](https://github.com/mart337i/odoo-dev-mcp)**  
+MCP server exposing Odoo development workflows to AI coding assistants.
+
+---
+
+**[odoo-skills](https://github.com/mart337i/odoo-skills)**  
+AI agent skills for Odoo development, testing, code review, and module migration.
+
+---
+
+**[deploy-it.dk](https://github.com/mart337i/deploy-it.dk)**  
+Python deployment API with Proxmox-oriented infrastructure automation.
 
 ---
 
